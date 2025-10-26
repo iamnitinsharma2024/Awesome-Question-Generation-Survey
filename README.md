@@ -179,6 +179,83 @@ This repository serves as the supporting resource for our research survey on que
   
   
   <h2 id="sec-1-2">1.2 Questionnaires/Quiz</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2022/07</td>
+      <td>Reading Comprehension Quiz Generation using Generative Pre-trained Transformers</td>
+      <td>Dijkstra et&nbsp;al., 2022</td>
+      <td>AIED-ITB’22 (WS)</td>
+      <td><a href="https://e.humanities.uva.nl/publications/2022/dijk_read22.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/02</td>
+      <td>EvalQuiz — LLM-based Automated Generation of Self-Assessment Quizzes in Software Engineering Education</td>
+      <td>Meißner et&nbsp;al., 2024</td>
+      <td>SEUH&nbsp;2024</td>
+      <td><a href="https://dl.gi.de/bitstreams/6d43a6cc-37c5-4cb5-80d7-b9c2a642a7c0/download">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/07</td>
+      <td>Scaling Up Mastery Learning with Generative AI: Exploring How Generative AI Can Assist in the Generation and Evaluation of Mastery Quiz Questions.</td>
+      <td>Hutt &amp;&nbsp;Hieb, 2024</td>
+      <td>ACM&nbsp;L@S&nbsp;’24</td>
+      <td><a href="https://dl.acm.org/doi/pdf/10.1145/3657604.3664699">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/10</td>
+      <td>Automated Generation of Ethical Profile-Building Questionnaires.</td>
+      <td>Memon et&nbsp;al., 2024</td>
+      <td>ASE&nbsp;Workshops&nbsp;’24</td>
+      <td><a href="https://dl.acm.org/doi/pdf/10.1145/3691621.3694961">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/11</td>
+      <td>QuerIA: Contextual Learning-Driven Questionnaire Generation and Assessment based on Large Language Models</td>
+      <td>Eyzaguirre &amp;&nbsp;Badenes-Olmedo, 2024</td>
+      <td>EKAW-PDWT&nbsp;’24 (CEUR)</td>
+      <td><a href="https://ceur-ws.org/Vol-3967/PD_paper_162.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2025/05</td>
+      <td>Methodological Foundations for AI-Driven Survey Question Generation.</td>
+      <td>Mburu et&nbsp;al., 2025</td>
+      <td>JEE&nbsp;(Early&nbsp;View)</td>
+      <td><a href="https://arxiv.org/pdf/2505.01150">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2025/07</td>
+      <td>Exploring LLMs for Automated Generation and Adaptation of Questionnaires</td>
+      <td>Adhikari et&nbsp;al., 2025</td>
+      <td>ACM&nbsp;CUI&nbsp;’25</td>
+      <td><a href="https://dl.acm.org/doi/pdf/10.1145/3719160.3736606">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+  
   <h2 id="sec-1-3">1.3 Miscellaneous Answer Format</h2>
 
 <hr class="sep" />
