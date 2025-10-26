@@ -17,51 +17,51 @@ This repository serves as the supporting resource for our research survey on que
 <nav aria-label="Table of contents">
   <strong>Table of Contents</strong>
   <ol>
-    <li><a href="#sec-1">1. Answer Format Based Question</a>
+    <li><a href="#sec-1"> Answer Format Based Question</a>
       <ol>
-        <li><a href="#sec-1-1">1.1 MCQ</a></li>
-        <li><a href="#sec-1-2">1.2 Questionnaires/Quiz</a></li>
-        <li><a href="#sec-1-3">1.3 Miscellaneous Answer Format</a></li>
+        <li><a href="#sec-1-1"> MCQ</a></li>
+        <li><a href="#sec-1-2"> Questionnaires/Quiz</a></li>
+        <li><a href="#sec-1-3"> Miscellaneous Answer Format</a></li>
       </ol>
     </li>
-    <li><a href="#sec-2">2. Context Base Question</a>
+    <li><a href="#sec-2"> Context Base Question</a>
       <ol>
-        <li><a href="#sec-2-1">2.1 Conversational Question</a></li>
-        <li><a href="#sec-2-2">2.2 Context Length Based</a></li>
+        <li><a href="#sec-2-1"> Conversational Question</a></li>
+        <li><a href="#sec-2-2"> Context Length Based</a></li>
       </ol>
     </li>
-    <li><a href="#sec-3">3. Cognitive Level Based Question</a>
+    <li><a href="#sec-3"> Cognitive Level Based Question</a>
       <ol>
-        <li><a href="#sec-3-1">3.1 Distractor Generation</a></li>
-        <li><a href="#sec-3-2">3.2 Bloom’s Taxonomy</a></li>
-        <li><a href="#sec-3-3">3.3 Multi Hop</a></li>
-        <li><a href="#sec-3-4">3.4 Deep Question</a></li>
-        <li><a href="#sec-3-5">3.5 Miscellaneous Higher-Order Thinking</a></li>
+        <li><a href="#sec-3-1"> Distractor Generation</a></li>
+        <li><a href="#sec-3-2"> Bloom’s Taxonomy</a></li>
+        <li><a href="#sec-3-3"> Multi Hop</a></li>
+        <li><a href="#sec-3-4"> Deep Question</a></li>
+        <li><a href="#sec-3-5"> Miscellaneous Higher-Order Thinking</a></li>
       </ol>
     </li>
-    <li><a href="#sec-4">4. Control and Guidance Mechanism Based Question</a>
+    <li><a href="#sec-4"> Control and Guidance Mechanism Based Question</a>
       <ol>
-        <li><a href="#sec-4-1">4.1 Diverse Question Generation</a></li>
-        <li><a href="#sec-4-2">4.2 Difficulty Control</a></li>
-        <li><a href="#sec-4-3">4.3 Scalable &amp; Efficient</a></li>
-        <li><a href="#sec-4-4">4.4 Miscellaneous Control</a></li>
+        <li><a href="#sec-4-1"> Diverse Question Generation</a></li>
+        <li><a href="#sec-4-2"> Difficulty Control</a></li>
+        <li><a href="#sec-4-3"> Scalable &amp; Efficient</a></li>
+        <li><a href="#sec-4-4"> Miscellaneous Control</a></li>
       </ol>
     </li>
-    <li><a href="#sec-5">5. Multilingual &amp; Multimodality Based Question</a>
+    <li><a href="#sec-5"> Multilingual &amp; Multimodality Based Question</a>
       <ol>
-        <li><a href="#sec-5-1">5.1 Multi-Lingual</a></li>
-        <li><a href="#sec-5-2">5.2 Multimodality–Image</a></li>
-        <li><a href="#sec-5-3">5.3 Multimodality–Other</a></li>
+        <li><a href="#sec-5-1"> Multi-Lingual</a></li>
+        <li><a href="#sec-5-2"> Multimodality–Image</a></li>
+        <li><a href="#sec-5-3"> Multimodality–Other</a></li>
       </ol>
     </li>
-    <li><a href="#sec-6">6. Datasets</a></li>
-    <li><a href="#sec-7">7. Evaluation Metrics</a>
+    <li><a href="#sec-6"> Datasets</a></li>
+    <li><a href="#sec-7"> Evaluation Metrics</a>
       <ol>
-        <li><a href="#sec-7-1">7.1 Automatic Metrics</a></li>
-        <li><a href="#sec-7-2">7.2 Human Metrics</a></li>
+        <li><a href="#sec-7-1"> Automatic Metrics</a></li>
+        <li><a href="#sec-7-2"> Human Metrics</a></li>
       </ol>
     </li>
-    <li><a href="#sec-8">8. Code Repository/ GitHub Link</a></li>
+    <li><a href="#sec-8"> Code Repository/ GitHub Link</a></li>
   </ol>
 </nav>
 
