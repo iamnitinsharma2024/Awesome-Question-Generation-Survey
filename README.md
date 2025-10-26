@@ -1671,6 +1671,212 @@ This repository serves as the supporting resource for our research survey on que
   <h2 id="sec-7-1">7.1 Automatic Metrics</h2>
   <h2 id="sec-7-2">7.2 Human Metrics</h2>
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation in Short form</th>
+      <th>Venue in Short Form</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1895/01</td>
+      <td>Note on Regression and Inheritance in the Case of Two Parents</td>
+      <td>Pearson, 1895</td>
+      <td>Proc. R. Soc. Lond.</td>
+      <td><a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspl.1895.0041">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>1925/01</td>
+      <td>Statistical Methods for Research Workers</td>
+      <td>Fisher, 1925</td>
+      <td>Book</td>
+      <td><a href="https://archive.org/details/in.ernet.dli.2015.205971">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>1932/01</td>
+      <td>A Technique for the Measurement of Attitudes</td>
+      <td>Likert, 1932</td>
+      <td>Archives of Psychology</td>
+      <td><a href="https://legacy.voteview.com/pdf/Likert_1932.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>1938/06</td>
+      <td>A New Measure of Rank Correlation</td>
+      <td>Kendall, 1938</td>
+      <td>Biometrika</td>
+      <td><a href="https://academic.oup.com/biomet/article-pdf/30/1-2/81/1129135/30-1-2-81.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>1960/04</td>
+      <td>A Coefficient of Agreement for Nominal Scales</td>
+      <td>Cohen, 1960</td>
+      <td>Educ. Psychol. Meas.</td>
+      <td><a href="https://journals.sagepub.com/doi/pdf/10.1177/001316446002000104">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>1971/11</td>
+      <td>Measuring Nominal Scale Agreement Among Many Raters</td>
+      <td>Fleiss, 1971</td>
+      <td>Psychol. Bull.</td>
+      <td><a href="https://files.eric.ed.gov/fulltext/ED490661.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>1975/10</td>
+      <td>Comparison of the Predicted and Observed Secondary Structure of T4 Phage Lysozyme</td>
+      <td>Matthews, 1975</td>
+      <td>BBA–Protein Struct.</td>
+      <td><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6941312/pdf/13040_2019_Article_206.pdf#page=5">PDF (cites MCC; includes ref)</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>1996/08</td>
+      <td>ITU-T P.800: Methods for Subjective Determination of Transmission Quality</td>
+      <td>ITU-T, 1996</td>
+      <td>ITU-T Rec.</td>
+      <td><a href="https://www.itu.int/rec/T-REC-P.800-199608-I/en">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>1997/01</td>
+      <td>Statistical Methods for Speech Recognition</td>
+      <td>Jelinek, 1997</td>
+      <td>Book (MIT Press)</td>
+      <td><a href="https://web.stanford.edu/class/ee378b/papers/Jelinek_1997.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2002/07</td>
+      <td>BLEU: A Method for Automatic Evaluation of Machine Translation</td>
+      <td>Papineni et&nbsp;al., 2002</td>
+      <td>ACL</td>
+      <td><a href="https://aclanthology.org/P02-1040.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2002/08</td>
+      <td>Predicting Query Performance</td>
+      <td>Clarkson et&nbsp;al., 2002</td>
+      <td>SIGIR</td>
+      <td><a href="https://dl.acm.org/doi/pdf/10.1145/564376.564401">PDF</a></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>2002/10</td>
+      <td>Cumulated Gain-Based Evaluation of IR Techniques</td>
+      <td>Järvelin &amp; Kekäläinen, 2002</td>
+      <td>ACM TOIS</td>
+      <td><a href="https://faculty.cc.gatech.edu/~zha/CS8803WST/dcg.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>2004/01</td>
+      <td>Content Analysis: An Introduction to Its Methodology (2nd ed.)</td>
+      <td>Krippendorff, 2004</td>
+      <td>Book (SAGE)</td>
+      <td><a href="https://www.metodos.work/wp-content/uploads/2020/05/content_analysis-kippendorf-book.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>2004/05</td>
+      <td>Evaluating Content Selection in Summarization: The Pyramid Method</td>
+      <td>Nenkova &amp; Passonneau, 2004</td>
+      <td>HLT-NAACL</td>
+      <td><a href="https://www1.cs.columbia.edu/~ani/papers/pyramid.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>2004/07</td>
+      <td>ROUGE: A Package for Automatic Evaluation of Summaries</td>
+      <td>Lin, 2004</td>
+      <td>ACL Workshop</td>
+      <td><a href="https://aclanthology.org/W04-1013.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>2005/06</td>
+      <td>Modeling Local Coherence: An Entity-Based Approach</td>
+      <td>Barzilay &amp; Lapata, 2005</td>
+      <td>ACL</td>
+      <td><a href="https://aclanthology.org/P05-1018.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>2005/06</td>
+      <td>METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments</td>
+      <td>Banerjee &amp; Lavie, 2005</td>
+      <td>ACL Workshop</td>
+      <td><a href="https://www.cs.cmu.edu/~alavie/METEOR/pdf/Banerjee-Lavie-2005-METEOR.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>2008/07</td>
+      <td>Introduction to Information Retrieval (Ch. 8: Evaluation)</td>
+      <td>Manning et&nbsp;al., 2008</td>
+      <td>Book (CUP)</td>
+      <td><a href="https://nlp.stanford.edu/IR-book/pdf/08eval.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>2016/06</td>
+      <td>A Diversity-Promoting Objective Function for Neural Conversation Models (Distinct-n)</td>
+      <td>Li et&nbsp;al., 2016</td>
+      <td>NAACL-HLT</td>
+      <td><a href="https://nlp.stanford.edu/pubs/jiwei2016diversity.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>2016/11</td>
+      <td>SQuAD: 100,000+ Questions for Machine Comprehension of Text</td>
+      <td>Rajpurkar et&nbsp;al., 2016</td>
+      <td>EMNLP</td>
+      <td><a href="https://aclanthology.org/D16-1264.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>2018/06</td>
+      <td>SQuAD 2.0: Machine Reading with Unanswerable Questions</td>
+      <td>Rajpurkar et&nbsp;al., 2018</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/1806.03822.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>2020/04</td>
+      <td>BERTScore: Evaluating Text Generation with BERT</td>
+      <td>Zhang et&nbsp;al., 2020</td>
+      <td>ICLR</td>
+      <td><a href="https://openreview.net/pdf?id=SkeHuCVFDr">PDF</a></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>2023/12</td>
+      <td>G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment</td>
+      <td>Liu et&nbsp;al., 2023</td>
+      <td>EMNLP</td>
+      <td><a href="https://aclanthology.org/2023.emnlp-main.153.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
 <hr class="sep" />
 
 <h1 id="sec-8">8. Code Repository/ GitHub Link</h1>
