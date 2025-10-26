@@ -1013,7 +1013,53 @@ This repository serves as the supporting resource for our research survey on que
   
   
   <h2 id="sec-4-3">4.3 Scalable &amp; Efficient</h2>
-  
+  <table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link to PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2023/05</td>
+      <td>Scalable Educational Question Generation with Pre-trained Language Models</td>
+      <td>Bulathwela et&nbsp;al.,&nbsp;2023</td>
+      <td>AIED&nbsp;2023 (arXiv)</td>
+      <td><a href="https://arxiv.org/pdf/2305.07871.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/10</td>
+      <td>GaQR: An Efficient Generation-augmented Question Rewriter</td>
+      <td>Young et&nbsp;al.,&nbsp;2024</td>
+      <td>CIKM&nbsp;2024</td>
+      <td><a href="https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/young-2024-gaqr.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2025/01</td>
+      <td>A Novel Approach to Scalable and Automatic Topic-Controlled Question Generation in Education</td>
+      <td>Li et&nbsp;al.,&nbsp;2025</td>
+      <td>LAK&nbsp;2025 (arXiv)</td>
+      <td><a href="https://arxiv.org/pdf/2501.05220.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2025/02</td>
+      <td>Savaal: Scalable Concept-Driven Question Generation to Enhance Human Learning</td>
+      <td>Noorbakhsh et&nbsp;al.,&nbsp;2025</td>
+      <td>arXiv (preprint)</td>
+      <td><a href="https://arxiv.org/pdf/2502.12477.pdf" target="_blank">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
   
   
   
