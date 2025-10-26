@@ -1665,7 +1665,96 @@ This repository serves as the supporting resource for our research survey on que
   </tbody>
 </table>
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Code Repository / GitHub Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2023/12</td>
+      <td>Diversify Question Generation with Retrieval-Augmented Style Transfer</td>
+      <td>(Gou et al., 2023)</td>
+      <td><a href="https://github.com/gouqi666/RAST">https://github.com/gouqi666/RAST</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/10</td>
+      <td>GaQR: An Efficient Generation-augmented Question Rewriter</td>
+      <td>(Young et al., 2024)</td>
+      <td><a href="https://github.com/youngbeauty250/GaQR">https://github.com/youngbeauty250/GaQR</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2025/05</td>
+      <td>KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation</td>
+      <td>(Chen &amp; Shiu, 2025)</td>
+      <td><a href="https://github.com/gtfintechlab/KG-QAGen">https://github.com/gtfintechlab/KG-QAGen</a></td>
+    </tr>
+  </tbody>
+</table>
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Code Repository / GitHub Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2020/11</td>
+      <td>PathQG: Neural Question Generation from Facts</td>
+      <td>Wang et&nbsp;al., 2020</td>
+      <td><a href="https://github.com/SiyuanWangw/PathQG">https://github.com/SiyuanWangw/PathQG</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/04</td>
+      <td>SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation</td>
+      <td>Guo et&nbsp;al., 2024</td>
+      <td><a href="https://github.com/RUCKBReasoning/SGSH">https://github.com/RUCKBReasoning/SGSH</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/05</td>
+      <td>Diversifying Question Generation over Knowledge Base via External Natural Questions</td>
+      <td>Guo et&nbsp;al., 2024</td>
+      <td><a href="https://github.com/RUCKBReasoning/DiversifyQG">https://github.com/RUCKBReasoning/DiversifyQG</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/11</td>
+      <td>ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos</td>
+      <td>Phukan et&nbsp;al., 2024</td>
+      <td><a href="https://github.com/thePhukan/ECIS-VQG">https://github.com/thePhukan/ECIS-VQG</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2025/03</td>
+      <td>ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering</td>
+      <td>Guan et&nbsp;al., 2025</td>
+      <td><a href="https://github.com/guankaisi/ETVA">https://github.com/guankaisi/ETVA</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2025/05</td>
+      <td>KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation</td>
+      <td>Tatarinov et&nbsp;al., 2025</td>
+      <td><a href="https://github.com/gtfintechlab/KG-QAGen">https://github.com/gtfintechlab/KG-QAGen</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
