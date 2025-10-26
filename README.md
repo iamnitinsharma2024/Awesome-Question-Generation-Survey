@@ -880,9 +880,73 @@ This repository serves as the supporting resource for our research survey on que
 <hr class="sep" />
 
 <h1 id="sec-4">4. Control and Guidance Mechanism Based Question</h1>
+  
   <h2 id="sec-4-1">4.1 Diverse Question Generation</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2023/12</td>
+      <td>Diversify Question Generation with Retrieval-Augmented Style Transfer</td>
+      <td>Gou et&nbsp;al., 2023</td>
+      <td>EMNLP&nbsp;2023</td>
+      <td><a href="https://aclanthology.org/2023.emnlp-main.104.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2023/12</td>
+      <td>PROTEGE: Prompt-based Diverse Question Generation from Web Articles</td>
+      <td>Puranik et&nbsp;al., 2023</td>
+      <td>Findings&nbsp;EMNLP&nbsp;2023</td>
+      <td><a href="https://aclanthology.org/2023.findings-emnlp.362.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/03</td>
+      <td>Understanding the Role of Temperature in Diverse Question Generation by GPT-4</td>
+      <td>Agarwal et&nbsp;al., 2024</td>
+      <td>SIGCSE&nbsp;TS&nbsp;2024&nbsp;(Poster)</td>
+      <td><a href="https://arxiv.org/pdf/2404.09366">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/05</td>
+      <td>Diversifying Question Generation over Knowledge Base via External Natural Questions</td>
+      <td>Guo et&nbsp;al., 2024</td>
+      <td>LREC-COLING&nbsp;2024</td>
+      <td><a href="https://aclanthology.org/2024.lrec-main.454.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/11</td>
+      <td>Enhancing Diversity in Difficulty-Controllable Question Generation for Reading Comprehension via Extended T5</td>
+      <td>Goto et&nbsp;al., 2024</td>
+      <td>ICCE&nbsp;2024</td>
+      <td><a href="https://library.apsce.net/index.php/ICCE/article/download/4813/4748">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+  
   <h2 id="sec-4-2">4.2 Difficulty Control</h2>
+  
+  
+  
   <h2 id="sec-4-3">4.3 Scalable &amp; Efficient</h2>
+  
+  
+  
+  
   <h2 id="sec-4-4">4.4 Miscellaneous Control</h2>
 
 <hr class="sep" />
