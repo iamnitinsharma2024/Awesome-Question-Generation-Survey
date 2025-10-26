@@ -71,6 +71,113 @@ This repository serves as the supporting resource for our research survey on que
 
 <h1 id="sec-1">1. Answer Format Based Question</h1>
   <h2 id="sec-1-1">1.1 MCQ</h2>
+  
+  <table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2022/09</td>
+      <td>Automatic computer science domain multiple-choice questions generation based on informative sentences</td>
+      <td>Maheen et&nbsp;al., 2022</td>
+      <td>PeerJ Comput. Sci.</td>
+      <td><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9454961/pdf/peerj-cs-08-1104.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2022/12</td>
+      <td>End-to-End generation of Multiple-Choice questions using Text-to-Text transfer Transformer models</td>
+      <td>Rodríguez-Torrealba et&nbsp;al., 2022</td>
+      <td>ESWA</td>
+      <td><a href="https://www.sciencedirect.com/science/article/pii/S0957417422014014/pdfft">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2023/07</td>
+      <td>English grammar multiple-choice question generation using Text-to-Text Transfer Transformer</td>
+      <td>Chomphooyod et&nbsp;al., 2023</td>
+      <td>Comput. Educ.: AI</td>
+      <td><a href="https://www.sciencedirect.com/science/article/pii/S2666920X2300158X/pdfft">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2023/08</td>
+      <td>ChatGPT versus human in generating medical graduate exam multiple choice questions—A multinational prospective study</td>
+      <td>Cheung et&nbsp;al., 2023</td>
+      <td>PLOS ONE</td>
+      <td><a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0290691&type=printable">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/07</td>
+      <td>Math Multiple Choice Question Generation via Human–Large Language Model Collaboration</td>
+      <td>Lee et&nbsp;al., 2024</td>
+      <td>EDM 2024</td>
+      <td><a href="https://people.umass.edu/~andrewlan/papers/24edm-collab.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024/10</td>
+      <td>ChatGPT prompts for generating multiple-choice questions in medical education and evidence on their validity: a literature review</td>
+      <td>Kıyak et&nbsp;al., 2024</td>
+      <td>Postgrad Med J</td>
+      <td><a href="https://academic.oup.com/pmj/article/100/1189/858/7688383">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024/11</td>
+      <td>DiVERT: Distractor Generation with Variational Errors Represented as Text for Math Multiple-choice Questions</td>
+      <td>Fernandez et&nbsp;al., 2024</td>
+      <td>EMNLP 2024</td>
+      <td><a href="https://people.umass.edu/~andrewlan/papers/24emnlp-divert.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2025/01</td>
+      <td>Automatic Multiple-Choice Question Generation and Evaluation Systems Based on LLM: A Study Case With University Resolutions</td>
+      <td>Mucciaccia et&nbsp;al., 2025</td>
+      <td>COLING 2025</td>
+      <td><a href="https://aclanthology.org/2025.coling-main.154.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2025/04</td>
+      <td>MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback</td>
+      <td>Yao et&nbsp;al., 2025</td>
+      <td>NAACL 2025</td>
+      <td><a href="https://aclanthology.org/2025.naacl-long.538.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2025/06</td>
+      <td>Enhancing Clinical Multiple-Choice Questions Benchmarks with Knowledge Graph Guided Distractor Generation</td>
+      <td>Yang et&nbsp;al., 2025</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2506.00612">PDF</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2025/06</td>
+      <td>Multiple-Choice Question Generation Using Large Language Models: Methodology and Educator Insights</td>
+      <td>Biancini et&nbsp;al., 2025</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2506.04851">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+  
+  
+  
   <h2 id="sec-1-2">1.2 Questionnaires/Quiz</h2>
   <h2 id="sec-1-3">1.3 Miscellaneous Answer Format</h2>
 
