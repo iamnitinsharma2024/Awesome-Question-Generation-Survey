@@ -1512,67 +1512,10 @@ This repository serves as the supporting resource for our research survey on que
 </body>
 </html>
 
-<table border="1" cellpadding="6" cellspacing="0">
-  <thead>
-    <tr>
-      <th>SN</th>
-      <th>Time (YYYY/MM)</th>
-      <th>Title</th>
-      <th>Inline Citation (short)</th>
-      <th>Code Repository / GitHub Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>2022/01</td>
-      <td>Leaf: Multiple-Choice Question Generation</td>
-      <td>Vachev et al., 2022</td>
-      <td><a href="https://github.com/KristiyanVachev/Leaf-Question-Generation" target="_blank">github.com/KristiyanVachev/Leaf-Question-Generation</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2022/07</td>
-      <td>Reading Comprehension Quiz Generation using Generative Pre-trained Transformers</td>
-      <td>Dijkstra et al., 2022</td>
-      <td><a href="https://github.com/RamonDijkstra/EduQuiz" target="_blank">github.com/RamonDijkstra/EduQuiz</a></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>2024/10</td>
-      <td>MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback</td>
-      <td>Yao et al., 2024</td>
-      <td><a href="https://github.com/bio-nlp/MedQG" target="_blank">github.com/bio-nlp/MedQG</a></td>
-    </tr>
-  </tbody>
-</table>
-<table border="1" cellspacing="0" cellpadding="6">
-  <thead>
-    <tr>
-      <th>SN</th>
-      <th>Time (YYYY/MM)</th>
-      <th>Title</th>
-      <th>Inline Citation in Short form</th>
-      <th>Code Repository / GitHub Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>2023/07</td>
-      <td>Synthesize, Prompt and Transfer: Zero-shot Conversational Question Generation with Pre-trained Language Model</td>
-      <td>[Zeng&nbsp;et&nbsp;al.,&nbsp;2023]</td>
-      <td><a href="https://github.com/hongweizeng/ZeroCQG">https://github.com/hongweizeng/ZeroCQG</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2024/08</td>
-      <td>Consistency Training by Synthetic Question Generation for Conversational Question Answering</td>
-      <td>[Hematian&nbsp;&amp;&nbsp;Beigy,&nbsp;2024]</td>
-      <td><a href="https://github.com/HamedHematian/SynCQG">https://github.com/HamedHematian/SynCQG</a></td>
-    </tr>
-  </tbody>
-</table>
+
+
+
+
 
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
@@ -1580,7 +1523,7 @@ This repository serves as the supporting resource for our research survey on que
       <th>SN</th>
       <th>Time (YYYY/MM)</th>
       <th>Title</th>
-      <th>Inline Citation (short)</th>
+      <th>Inline Citation in Short form</th>
       <th>Code Repository / GitHub Link</th>
     </tr>
   </thead>
@@ -1589,128 +1532,176 @@ This repository serves as the supporting resource for our research survey on que
       <td>1</td>
       <td>2020/04</td>
       <td>Semantic Graphs for Generating Deep Questions</td>
-      <td>(Pan et&nbsp;al., 2020)</td>
-      <td><a href="https://github.com/WING-NUS/SG-Deep-Question-Generation">github.com/WING-NUS/SG-Deep-Question-Generation</a></td>
+      <td>(Pan et al., 2020)</td>
+      <td><a href="https://github.com/WING-NUS/SG-Deep-Question-Generation" target="_blank" rel="noopener">github.com/WING-NUS/SG-Deep-Question-Generation</a></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>2020/12</td>
-      <td>Exploring Question-Specific Rewards for Generating Deep Questions</td>
-      <td>(Xie et&nbsp;al., 2020)</td>
-      <td><a href="https://github.com/YuxiXie/RL-for-Question-Generation">github.com/YuxiXie/RL-for-Question-Generation</a></td>
+      <td>2020/11</td>
+      <td>PathQG: Neural Question Generation from Facts</td>
+      <td>(Wang et al., 2020)</td>
+      <td><a href="https://github.com/SiyuanWangw/PathQG" target="_blank" rel="noopener">github.com/SiyuanWangw/PathQG</a></td>
     </tr>
     <tr>
       <td>3</td>
       <td>2020/12</td>
-      <td>Automatic Distractor Generation for Multiple-Choice Questions in Standard Tests (EDGE)</td>
-      <td>(Qiu et&nbsp;al., 2020)</td>
-      <td><a href="https://github.com/zpqiu/EDGE">github.com/zpqiu/EDGE</a></td>
+      <td>Exploring Question-Specific Rewards for Generating Deep Questions</td>
+      <td>(Xie et al., 2020)</td>
+      <td><a href="https://github.com/YuxiXie/RL-for-Question-Generation" target="_blank" rel="noopener">github.com/YuxiXie/RL-for-Question-Generation</a></td>
     </tr>
     <tr>
       <td>4</td>
-      <td>2022/12</td>
-      <td>CDGP: Automatic Cloze Distractor Generation based on Pre-trained Language Model</td>
-      <td>(Chiang et&nbsp;al., 2022)</td>
-      <td><a href="https://github.com/AndyChiangSH/CDGP">github.com/AndyChiangSH/CDGP</a></td>
+      <td>2020/12</td>
+      <td>Automatic Distractor Generation for Multiple-Choice Questions in Standard Tests (EDGE)</td>
+      <td>(Qiu et al., 2020)</td>
+      <td><a href="https://github.com/zpqiu/EDGE" target="_blank" rel="noopener">github.com/zpqiu/EDGE</a></td>
     </tr>
     <tr>
       <td>5</td>
-      <td>2023/07</td>
-      <td>Distractor Generation for MCQs with Predictive Prompting &amp; LLMs</td>
-      <td>(Kiros et&nbsp;al., 2023)</td>
-      <td><a href="https://github.com/semerekiros/distractGPT">github.com/semerekiros/distractGPT</a></td>
+      <td>2022/01</td>
+      <td>Leaf: Multiple-Choice Question Generation</td>
+      <td>(Vachev et al., 2022)</td>
+      <td><a href="https://github.com/KristiyanVachev/Leaf-Question-Generation" target="_blank" rel="noopener">github.com/KristiyanVachev/Leaf-Question-Generation</a></td>
     </tr>
     <tr>
       <td>6</td>
-      <td>2024/03</td>
-      <td>Improving Socratic Question Generation using Data Augmentation &amp; Preference Optimization</td>
-      <td>(Ashok&nbsp;Kumar &amp; Lan, 2024)</td>
-      <td><a href="https://github.com/umass-ml4ed/socratic-quest-gen">github.com/umass-ml4ed/socratic-quest-gen</a></td>
+      <td>2022/07</td>
+      <td>Reading Comprehension Quiz Generation using Generative Pre-trained Transformers</td>
+      <td>(Dijkstra et al., 2022)</td>
+      <td><a href="https://github.com/RamonDijkstra/EduQuiz" target="_blank" rel="noopener">github.com/RamonDijkstra/EduQuiz</a></td>
     </tr>
     <tr>
       <td>7</td>
-      <td>2024/03</td>
-      <td>Explainable Multi-hop Question Generation: End-to-End without Intermediate Labeling</td>
-      <td>(Hwang et&nbsp;al., 2024)</td>
-      <td><a href="https://github.com/SeonjeongHwang/e2eQR">github.com/SeonjeongHwang/e2eQR</a></td>
+      <td>2022/12</td>
+      <td>CDGP: Automatic Cloze Distractor Generation based on Pre-trained Language Model</td>
+      <td>(Chiang et al., 2022)</td>
+      <td><a href="https://github.com/AndyChiangSH/CDGP" target="_blank" rel="noopener">github.com/AndyChiangSH/CDGP</a></td>
     </tr>
     <tr>
       <td>8</td>
-      <td>2024/04</td>
-      <td>Exploring Automated Distractor Generation for Math MCQs via LLMs</td>
-      <td>(Feng et&nbsp;al., 2024)</td>
-      <td><a href="https://github.com/umass-ml4ed/prompt_distractor_generation_NAACL">github.com/umass-ml4ed/prompt_distractor_generation_NAACL</a></td>
+      <td>2023/07</td>
+      <td>Synthesize, Prompt and Transfer: Zero-shot Conversational Question Generation with Pre-trained Language Model</td>
+      <td>(Zeng et al., 2023)</td>
+      <td><a href="https://github.com/hongweizeng/ZeroCQG" target="_blank" rel="noopener">github.com/hongweizeng/ZeroCQG</a></td>
     </tr>
     <tr>
       <td>9</td>
-      <td>2024/08</td>
-      <td>Automated Educational Question Generation at Different Bloom’s Skill Levels</td>
-      <td>(Scaria et&nbsp;al., 2024)</td>
-      <td><a href="https://github.com/nicyscaria/AEQG_Blooms_Evaluation_LLMs">github.com/nicyscaria/AEQG_Blooms_Evaluation_LLMs</a></td>
+      <td>2023/07</td>
+      <td>Distractor Generation for MCQs with Predictive Prompting &amp; LLMs</td>
+      <td>(Kiros et al., 2023)</td>
+      <td><a href="https://github.com/semerekiros/distractGPT" target="_blank" rel="noopener">github.com/semerekiros/distractGPT</a></td>
     </tr>
     <tr>
       <td>10</td>
-      <td>2024/09</td>
-      <td>DisGeM: Distractor Generation for MCQs with Span Masking</td>
-      <td>(Ekmekci et&nbsp;al., 2024)</td>
-      <td><a href="https://github.com/obss/disgem">github.com/obss/disgem</a></td>
+      <td>2023/10</td>
+      <td>Diversify Question Generation with Retrieval-Augmented Style Transfer (RAST)</td>
+      <td>(Gou et al., 2023)</td>
+      <td><a href="https://github.com/gouqi666/RAST" target="_blank" rel="noopener">github.com/gouqi666/RAST</a></td>
     </tr>
     <tr>
       <td>11</td>
-      <td>2024/10</td>
-      <td>Critical Questions Generation: Motivation and Challenges</td>
-      <td>(Figueras et&nbsp;al., 2024)</td>
-      <td><a href="https://github.com/hitz-zentroa/critical_questions_generation">github.com/hitz-zentroa/critical_questions_generation</a></td>
-    </tr>
-  </tbody>
-</table>
-
-
-<table border="1" cellpadding="6" cellspacing="0">
-  <thead>
-    <tr>
-      <th>SN</th>
-      <th>Time (YYYY/MM)</th>
-      <th>Title</th>
-      <th>Inline Citation in Short form</th>
-      <th>Code Repository/ GitHub Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>2023/10</td>
-      <td>Diversify Question Generation with Retrieval-Augmented Style Transfer (RAST)</td>
-      <td>(Gou et&nbsp;al., 2023)</td>
-      <td><a href="https://github.com/gouqi666/RAST" target="_blank">github.com/gouqi666/RAST</a></td>
+      <td>2024/03</td>
+      <td>Improving Socratic Question Generation using Data Augmentation &amp; Preference Optimization</td>
+      <td>(Ashok Kumar &amp; Lan, 2024)</td>
+      <td><a href="https://github.com/umass-ml4ed/socratic-quest-gen" target="_blank" rel="noopener">github.com/umass-ml4ed/socratic-quest-gen</a></td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>12</td>
+      <td>2024/03</td>
+      <td>Explainable Multi-hop Question Generation: End-to-End without Intermediate Labeling</td>
+      <td>(Hwang et al., 2024)</td>
+      <td><a href="https://github.com/SeonjeongHwang/e2eQR" target="_blank" rel="noopener">github.com/SeonjeongHwang/e2eQR</a></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>2024/04</td>
+      <td>SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation</td>
+      <td>(Guo et al., 2024)</td>
+      <td><a href="https://github.com/RUCKBReasoning/SGSH" target="_blank" rel="noopener">github.com/RUCKBReasoning/SGSH</a></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>2024/04</td>
+      <td>Exploring Automated Distractor Generation for Math MCQs via LLMs</td>
+      <td>(Feng et al., 2024)</td>
+      <td><a href="https://github.com/umass-ml4ed/prompt_distractor_generation_NAACL" target="_blank" rel="noopener">github.com/umass-ml4ed/prompt_distractor_generation_NAACL</a></td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>2024/05</td>
       <td>Diversifying Question Generation over Knowledge Base via External Natural Questions</td>
-      <td>(Guo et&nbsp;al., 2024)</td>
-      <td><a href="https://github.com/PersistenceForever/DiversifyQG" target="_blank">github.com/PersistenceForever/DiversifyQG</a></td>
+      <td>(Guo et al., 2024)</td>
+      <td><a href="https://github.com/RUCKBReasoning/DiversifyQG" target="_blank" rel="noopener">github.com/RUCKBReasoning/DiversifyQG</a></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>16</td>
+      <td>2024/08</td>
+      <td>Consistency Training by Synthetic Question Generation for Conversational Question Answering</td>
+      <td>(Hematian &amp; Beigy, 2024)</td>
+      <td><a href="https://github.com/HamedHematian/SynCQG" target="_blank" rel="noopener">github.com/HamedHematian/SynCQG</a></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>2024/08</td>
+      <td>Automated Educational Question Generation at Different Bloom’s Skill Levels</td>
+      <td>(Scaria et al., 2024)</td>
+      <td><a href="https://github.com/nicyscaria/AEQG_Blooms_Evaluation_LLMs" target="_blank" rel="noopener">github.com/nicyscaria/AEQG_Blooms_Evaluation_LLMs</a></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>2024/09</td>
+      <td>DisGeM: Distractor Generation for MCQs with Span Masking</td>
+      <td>(Ekmekci et al., 2024)</td>
+      <td><a href="https://github.com/obss/disgem" target="_blank" rel="noopener">github.com/obss/disgem</a></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>2024/10</td>
+      <td>Critical Questions Generation: Motivation and Challenges</td>
+      <td>(Figueras et al., 2024)</td>
+      <td><a href="https://github.com/hitz-zentroa/critical_questions_generation" target="_blank" rel="noopener">github.com/hitz-zentroa/critical_questions_generation</a></td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>2024/10</td>
       <td>GaQR: An Efficient Generation-augmented Question Rewriter</td>
-      <td>(Young et&nbsp;al., 2024)</td>
-      <td><a href="https://github.com/youngbeauty250/GaQR" target="_blank">github.com/youngbeauty250/GaQR</a></td>
+      <td>(Young et al., 2024)</td>
+      <td><a href="https://github.com/youngbeauty250/GaQR" target="_blank" rel="noopener">github.com/youngbeauty250/GaQR</a></td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>21</td>
+      <td>2024/10</td>
+      <td>MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback</td>
+      <td>(Yao et al., 2024)</td>
+      <td><a href="https://github.com/bio-nlp/MedQG" target="_blank" rel="noopener">github.com/bio-nlp/MedQG</a></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>2024/11</td>
+      <td>ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos</td>
+      <td>(Phukan et al., 2024)</td>
+      <td><a href="https://github.com/thePhukan/ECIS-VQG" target="_blank" rel="noopener">github.com/thePhukan/ECIS-VQG</a></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>2025/03</td>
+      <td>ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering</td>
+      <td>(Guan et al., 2025)</td>
+      <td><a href="https://github.com/guankaisi/ETVA" target="_blank" rel="noopener">github.com/guankaisi/ETVA</a></td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>2025/05</td>
       <td>KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation</td>
-      <td>(Tatarinov et&nbsp;al., 2025)</td>
-      <td><a href="https://github.com/gtfintechlab/KG-QAGen" target="_blank">github.com/gtfintechlab/KG-QAGen</a></td>
+      <td>(Tatarinov et al., 2025)</td>
+      <td><a href="https://github.com/gtfintechlab/KG-QAGen" target="_blank" rel="noopener">github.com/gtfintechlab/KG-QAGen</a></td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>25</td>
       <td>2025/05</td>
       <td>KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation</td>
       <td>(Chen &amp; Shiu, 2025)</td>
-      <td><a href="https://github.com/mfshiu/kaqg" target="_blank">github.com/mfshiu/kaqg</a></td>
+      <td><a href="https://github.com/mfshiu/kaqg" target="_blank" rel="noopener">github.com/mfshiu/kaqg</a></td>
     </tr>
   </tbody>
 </table>
@@ -1718,61 +1709,16 @@ This repository serves as the supporting resource for our research survey on que
 
 
 
-<table border="1" cellpadding="6" cellspacing="0">
-  <thead>
-    <tr>
-      <th>SN</th>
-      <th>Time (YYYY/MM)</th>
-      <th>Title</th>
-      <th>Inline Citation (short)</th>
-      <th>Code Repository / GitHub Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>2020/11</td>
-      <td>PathQG: Neural Question Generation from Facts</td>
-      <td>Wang et&nbsp;al., 2020</td>
-      <td><a href="https://github.com/SiyuanWangw/PathQG">https://github.com/SiyuanWangw/PathQG</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2024/04</td>
-      <td>SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation</td>
-      <td>Guo et&nbsp;al., 2024</td>
-      <td><a href="https://github.com/RUCKBReasoning/SGSH">https://github.com/RUCKBReasoning/SGSH</a></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>2024/05</td>
-      <td>Diversifying Question Generation over Knowledge Base via External Natural Questions</td>
-      <td>Guo et&nbsp;al., 2024</td>
-      <td><a href="https://github.com/RUCKBReasoning/DiversifyQG">https://github.com/RUCKBReasoning/DiversifyQG</a></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>2024/11</td>
-      <td>ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos</td>
-      <td>Phukan et&nbsp;al., 2024</td>
-      <td><a href="https://github.com/thePhukan/ECIS-VQG">https://github.com/thePhukan/ECIS-VQG</a></td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>2025/03</td>
-      <td>ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering</td>
-      <td>Guan et&nbsp;al., 2025</td>
-      <td><a href="https://github.com/guankaisi/ETVA">https://github.com/guankaisi/ETVA</a></td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>2025/05</td>
-      <td>KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation</td>
-      <td>Tatarinov et&nbsp;al., 2025</td>
-      <td><a href="https://github.com/gtfintechlab/KG-QAGen">https://github.com/gtfintechlab/KG-QAGen</a></td>
-    </tr>
-  </tbody>
-</table>
+
+
+
+
+
+
+
+
+
+
 
 
 
