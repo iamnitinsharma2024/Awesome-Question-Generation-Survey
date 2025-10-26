@@ -784,6 +784,76 @@ This repository serves as the supporting resource for our research survey on que
   
   <h2 id="sec-3-5">3.5 Miscellaneous Higher-Order Thinking</h2>
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>PDF Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2021/04</td>
+      <td>Automatically Generating Cause-and-Effect Questions from Passages</td>
+      <td>(Stasaski et&nbsp;al., 2021)</td>
+      <td>BEA&nbsp;2021</td>
+      <td><a href="https://aclanthology.org/2021.bea-1.17.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/05</td>
+      <td>Can LLMs Generate Competency Questions?</td>
+      <td>(Rebboud et&nbsp;al., 2024)</td>
+      <td>ESWC&nbsp;2024</td>
+      <td><a href="https://2024.eswc-conferences.org/wp-content/uploads/2024/05/77770070.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/06</td>
+      <td>Improving Socratic Question Generation using Data Augmentation and Preference Optimization</td>
+      <td>(Kumar &amp;&nbsp;Lan, 2024)</td>
+      <td>BEA&nbsp;2024</td>
+      <td><a href="https://aclanthology.org/2024.bea-1.10.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/09</td>
+      <td>Automated Generation of Competency Questions Using Large Language Models and Knowledge Graphs</td>
+      <td>(Di&nbsp;Nuzzo et&nbsp;al., 2024)</td>
+      <td>NLP4KGC@SEMANTICS&nbsp;2024</td>
+      <td><a href="https://ceur-ws.org/Vol-3874/paper10.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/11</td>
+      <td>Critical Questions Generation: Motivation and Challenges</td>
+      <td>(Calvo&nbsp;Figueras &amp;&nbsp;Agerri, 2024)</td>
+      <td>CoNLL&nbsp;2024</td>
+      <td><a href="https://aclanthology.org/2024.conll-1.9.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2025/07</td>
+      <td>Automatic Generation of Inference Making Questions for Reading Comprehension Assessments</td>
+      <td>(Ma et&nbsp;al., 2025)</td>
+      <td>BEA&nbsp;2025</td>
+      <td><a href="https://aclanthology.org/2025.bea-1.31.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2025/07</td>
+      <td>ELLIS Alicante at CQs-Gen 2025: Winning the critical thinking questions shared task: LLM-based question generation and selection</td>
+      <td>(Favero et&nbsp;al., 2025)</td>
+      <td>ArgMining&nbsp;2025</td>
+      <td><a href="https://aclanthology.org/2025.argmining-1.31.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
