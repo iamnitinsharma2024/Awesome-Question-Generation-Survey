@@ -725,7 +725,61 @@ This repository serves as the supporting resource for our research survey on que
   
   
   <h2 id="sec-3-4">3.4 Deep Question</h2>
-  
+  <table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2020/07</td>
+      <td>Semantic Graphs for Generating Deep Questions</td>
+      <td>Pan et&nbsp;al., 2020</td>
+      <td>ACL&nbsp;2020</td>
+      <td><a href="https://aclanthology.org/2020.acl-main.135.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2020/12</td>
+      <td>Exploring Question-Specific Rewards for Generating Deep Questions</td>
+      <td>Xie et&nbsp;al., 2020</td>
+      <td>COLING&nbsp;2020</td>
+      <td><a href="https://aclanthology.org/2020.coling-main.228.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2020/12</td>
+      <td>Answer-driven Deep Question Generation based on Reinforcement Learning</td>
+      <td>Wang et&nbsp;al., 2020</td>
+      <td>COLING&nbsp;2020</td>
+      <td><a href="https://aclanthology.org/2020.coling-main.452.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/09</td>
+      <td>RTRL: Relation-aware Transformer with Reinforcement Learning for Deep Question Generation</td>
+      <td>Zeng et&nbsp;al., 2024</td>
+      <td>KBS&nbsp;2024</td>
+      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730126">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2025/05</td>
+      <td>From Recall to Reasoning: Automated Question Generation for Deeper Math Learning through Large Language Models</td>
+      <td>Yu et&nbsp;al., 2025</td>
+      <td>AIED&nbsp;2025&nbsp;(LNCS)</td>
+      <td><a href="https://arxiv.org/pdf/2505.11899">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
   
   
   <h2 id="sec-3-5">3.5 Miscellaneous Higher-Order Thinking</h2>
