@@ -525,10 +525,133 @@ This repository serves as the supporting resource for our research survey on que
 
 <h1 id="sec-3">3. Cognitive Level Based Question</h1>
   <h2 id="sec-3-1">3.1 Distractor Generation</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2020/12</td>
+      <td>Automatic Distractor Generation for Multiple-Choice Questions in Standard Tests</td>
+      <td>Qiu et&nbsp;al., 2020</td>
+      <td>COLING&nbsp;2020</td>
+      <td><a href="https://aclanthology.org/2020.coling-main.189.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2021/07</td>
+      <td>Multiple-choice question generation with auto-generated distractors for computer-assisted educational assessment</td>
+      <td>Das et&nbsp;al., 2021</td>
+      <td>MTAP&nbsp;2021</td>
+      <td><a href="https://search.proquest.com/openview/3c6d3f8adb843e56f55510fa78695aca/1.pdf?cbl=54626&pq-origsite=gscholar">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2022/12</td>
+      <td>CDGP: Automatic Cloze Distractor Generation based on Pre-trained Language Model</td>
+      <td>Chiang et&nbsp;al., 2022</td>
+      <td>Findings&nbsp;EMNLP’22</td>
+      <td><a href="https://aclanthology.org/2022.findings-emnlp.429.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2023/07</td>
+      <td>Distractor generation for multiple-choice questions with predictive prompting and large language models</td>
+      <td>Bitew et&nbsp;al., 2023</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2307.16338">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2023/08</td>
+      <td>Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning</td>
+      <td>McNichols et&nbsp;al., 2023</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2308.03234">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024/04</td>
+      <td>Exploring Automated Distractor Generation for Math MCQs via LLMs</td>
+      <td>Feng et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2404.02124">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024/06</td>
+      <td>Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models</td>
+      <td>Feng et&nbsp;al., 2024</td>
+      <td>Findings&nbsp;NAACL’24</td>
+      <td><a href="https://aclanthology.org/2024.findings-naacl.193.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024/08</td>
+      <td>Enhancing Distractor Generation for Multiple-Choice Questions with Retrieval Augmented Pretraining and Knowledge Graph Integration</td>
+      <td>Yu et&nbsp;al., 2024</td>
+      <td>Findings&nbsp;ACL’24</td>
+      <td><a href="https://aclanthology.org/2024.findings-acl.655.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2024/11</td>
+      <td>DisGeM: Distractor Generation for Multiple Choice Questions with Span Masking</td>
+      <td>Çavuşoğlu et&nbsp;al., 2024</td>
+      <td>Findings&nbsp;EMNLP’24</td>
+      <td><a href="https://aclanthology.org/2024.findings-emnlp.568.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+  
   <h2 id="sec-3-2">3.2 Bloom’s Taxonomy</h2>
+  
+  
+  
+  
   <h2 id="sec-3-3">3.3 Multi Hop</h2>
+  
+  
+  
   <h2 id="sec-3-4">3.4 Deep Question</h2>
+  
+  
+  
   <h2 id="sec-3-5">3.5 Miscellaneous Higher-Order Thinking</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <hr class="sep" />
 
