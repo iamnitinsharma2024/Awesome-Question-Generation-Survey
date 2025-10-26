@@ -101,6 +101,118 @@ This repository serves as the supporting resource for our research survey on que
 
 <h1 id="sec-5">5. Multilingual &amp; Multimodality Based Question</h1>
   <h2 id="sec-5-1">5.1 Multi-Lingual</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2022/10</td>
+      <td>Learning to Reuse Distractors to support Multiple Choice Question Generation in Education</td>
+      <td>(Bitew et&nbsp;al.,&nbsp;2022)</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2210.13964">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2023/10</td>
+      <td>Few-shot is enough: exploring ChatGPT prompt engineering method for automatic question generation in English education</td>
+      <td>(Lee et&nbsp;al.,&nbsp;2023)</td>
+      <td>E&IT</td>
+      <td><a href="https://link.springer.com/article/10.1007/s10639-023-12249-8">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/01</td>
+      <td>Answer Agnostic Question Generation in Bangla Language</td>
+      <td>(Fahad et&nbsp;al.,&nbsp;2024)</td>
+      <td>IJNDC</td>
+      <td><a href="https://link.springer.com/article/10.1007/s44227-023-00018-5">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/01</td>
+      <td>A Novel Multi-Stage Prompting Approach for Language Agnostic MCQ Generation using GPT</td>
+      <td>(Maity et&nbsp;al.,&nbsp;2024)</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2401.07098">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/04</td>
+      <td>Automatic Generation and Evaluation of Reading Comprehension Test Items with Large Language Models</td>
+      <td>(Säuberli et&nbsp;al.,&nbsp;2024)</td>
+      <td>arXiv/LREC-COLING&nbsp;REaDIt</td>
+      <td><a href="https://arxiv.org/abs/2404.07720">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024/04</td>
+      <td>Towards automatic question generation using pre-trained model in academic field for Bahasa Indonesia</td>
+      <td>(Suhartono et&nbsp;al.,&nbsp;2024)</td>
+      <td>E&IT</td>
+      <td><a href="https://link.springer.com/article/10.1007/s10639-024-12717-9">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024/05</td>
+      <td>Transformer Models for Brazilian Portuguese Question Generation: An Experimental Study</td>
+      <td>(Junqueira et&nbsp;al.,&nbsp;2024)</td>
+      <td>FLAIRS&nbsp;2024</td>
+      <td><a href="https://journals.flvc.org/FLAIRS/article/download/135334/139788/260102">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024/05</td>
+      <td>Knowledge-Guided Cross-Topic Visual Question Generation</td>
+      <td>(Liu et&nbsp;al.,&nbsp;2024)</td>
+      <td>LREC-COLING&nbsp;2024</td>
+      <td><a href="https://aclanthology.org/2024.lrec-main.861.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2024/06</td>
+      <td>FairytaleQA Translated: Enabling Educational Q&amp;A Generation in Less-Resourced Languages</td>
+      <td>(Leite et&nbsp;al.,&nbsp;2024)</td>
+      <td>arXiv/Springer</td>
+      <td><a href="https://arxiv.org/abs/2406.04233">PDF</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2024/06</td>
+      <td>Arabic Automatic Question Generation using Transformer</td>
+      <td>(Alhashedi et&nbsp;al.,&nbsp;2024)</td>
+      <td>AIP&nbsp;Conf.&nbsp;Proc.</td>
+      <td><a href="https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0199032/19984173/050035_1_5.0199032.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2024/06</td>
+      <td>Automated Question Generation for Science Tests in Arabic Language Using NLP Techniques</td>
+      <td>(Tami et&nbsp;al.,&nbsp;2024)</td>
+      <td>arXiv/Springer</td>
+      <td><a href="https://arxiv.org/abs/2406.08520">PDF</a></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>2024/11</td>
+      <td>Cross-lingual Transfer for Automatic Question Generation by Learning Interrogative Structures in Target Languages</td>
+      <td>(Hwang et&nbsp;al.,&nbsp;2024)</td>
+      <td>EMNLP&nbsp;2024</td>
+      <td><a href="https://aclanthology.org/2024.emnlp-main.186.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+  
   <h2 id="sec-5-2">5.2 Multimodality–Image</h2>
 
   <table border="1" cellpadding="6" cellspacing="0">
