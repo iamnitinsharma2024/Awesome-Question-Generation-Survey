@@ -1,0 +1,8 @@
+title: "Question Generation Taxonomy"
+description: "NLP & Question Generation — taxonomy and structure"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  input: GFM
