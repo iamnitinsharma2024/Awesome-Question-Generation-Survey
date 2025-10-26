@@ -667,7 +667,61 @@ This repository serves as the supporting resource for our research survey on que
   
   
   <h2 id="sec-3-3">3.3 Multi Hop</h2>
-  
+  <table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2023/06</td>
+      <td>Transformer-Based Multi-Hop Question Generation (Student Abstract)</td>
+      <td>Emerson &amp; Chali, 2023</td>
+      <td>AAAI’23 (Student Abstract)</td>
+      <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26963/26735">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2023/12</td>
+      <td>Improving Question Generation with Multi-level Content Planning</td>
+      <td>Xia et&nbsp;al., 2023</td>
+      <td>Findings EMNLP’23</td>
+      <td><a href="https://aclanthology.org/2023.findings-emnlp.57.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/05</td>
+      <td>Explainable Multi-hop Question Generation: An End-to-End Approach without Intermediate Question Labeling</td>
+      <td>Hwang et&nbsp;al., 2024</td>
+      <td>LREC-COLING’24</td>
+      <td><a href="https://aclanthology.org/2024.lrec-main.599.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/06</td>
+      <td>Prompting Few-shot Multi-hop Question Generation via Comprehending Type-aware Semantics</td>
+      <td>Lin et&nbsp;al., 2024</td>
+      <td>Findings NAACL’24</td>
+      <td><a href="https://aclanthology.org/2024.findings-naacl.236.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2025/07</td>
+      <td>Multi-Hop Question Generation via Dual-Perspective Keyword Guidance</td>
+      <td>Li et&nbsp;al., 2025</td>
+      <td>Findings ACL’25</td>
+      <td><a href="https://aclanthology.org/2025.findings-acl.526.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
   
   
   <h2 id="sec-3-4">3.4 Deep Question</h2>
