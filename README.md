@@ -1665,40 +1665,58 @@ This repository serves as the supporting resource for our research survey on que
   </tbody>
 </table>
 
+
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
     <tr>
       <th>SN</th>
       <th>Time (YYYY/MM)</th>
       <th>Title</th>
-      <th>Inline Citation (short)</th>
-      <th>Code Repository / GitHub Link</th>
+      <th>Inline Citation in Short form</th>
+      <th>Code Repository/ GitHub Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
-      <td>2023/12</td>
-      <td>Diversify Question Generation with Retrieval-Augmented Style Transfer</td>
-      <td>(Gou et al., 2023)</td>
-      <td><a href="https://github.com/gouqi666/RAST">https://github.com/gouqi666/RAST</a></td>
+      <td>2023/10</td>
+      <td>Diversify Question Generation with Retrieval-Augmented Style Transfer (RAST)</td>
+      <td>(Gou et&nbsp;al., 2023)</td>
+      <td><a href="https://github.com/gouqi666/RAST" target="_blank">github.com/gouqi666/RAST</a></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>2024/10</td>
-      <td>GaQR: An Efficient Generation-augmented Question Rewriter</td>
-      <td>(Young et al., 2024)</td>
-      <td><a href="https://github.com/youngbeauty250/GaQR">https://github.com/youngbeauty250/GaQR</a></td>
+      <td>2024/05</td>
+      <td>Diversifying Question Generation over Knowledge Base via External Natural Questions</td>
+      <td>(Guo et&nbsp;al., 2024)</td>
+      <td><a href="https://github.com/PersistenceForever/DiversifyQG" target="_blank">github.com/PersistenceForever/DiversifyQG</a></td>
     </tr>
     <tr>
       <td>3</td>
+      <td>2024/10</td>
+      <td>GaQR: An Efficient Generation-augmented Question Rewriter</td>
+      <td>(Young et&nbsp;al., 2024)</td>
+      <td><a href="https://github.com/youngbeauty250/GaQR" target="_blank">github.com/youngbeauty250/GaQR</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>2025/05</td>
       <td>KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation</td>
+      <td>(Tatarinov et&nbsp;al., 2025)</td>
+      <td><a href="https://github.com/gtfintechlab/KG-QAGen" target="_blank">github.com/gtfintechlab/KG-QAGen</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2025/05</td>
+      <td>KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation</td>
       <td>(Chen &amp; Shiu, 2025)</td>
-      <td><a href="https://github.com/gtfintechlab/KG-QAGen">https://github.com/gtfintechlab/KG-QAGen</a></td>
+      <td><a href="https://github.com/mfshiu/kaqg" target="_blank">github.com/mfshiu/kaqg</a></td>
     </tr>
   </tbody>
 </table>
+
+
+
 
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
