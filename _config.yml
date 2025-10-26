@@ -1,8 +1,16 @@
 title: "Question Generation Taxonomy"
-description: "NLP & Question Generation — taxonomy and structure"
-theme: minima
+description: "GitHub Pages site for QG taxonomy with TOC"
+theme: jekyll-theme-cayman
+
+# Optional niceties that GitHub Pages allows
 plugins:
   - jekyll-seo-tag
-markdown: kramdown
-kramdown:
-  input: GFM
+  - jekyll-sitemap
+
+# SEO tag defaults (safe even if plugin not enabled)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
