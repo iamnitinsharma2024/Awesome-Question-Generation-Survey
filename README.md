@@ -61,7 +61,7 @@ This repository serves as the supporting resource for our research survey on que
         <li><a href="#sec-7-2">7.2 Human Metrics</a></li>
       </ol>
     </li>
-    <li><a href="#sec-8">8. FAQ</a></li>
+    <li><a href="#sec-8">8. Code Repository/ GitHub Link</a></li>
   </ol>
 </nav>
 
@@ -1505,7 +1505,7 @@ This repository serves as the supporting resource for our research survey on que
 
 <hr class="sep" />
 
-<h1 id="sec-8">8. FAQ</h1>
+<h1 id="sec-8">8. Code Repository/ GitHub Link</h1>
 
 <p><a class="top" href="#top">Back to top ↑</a></p>
 
