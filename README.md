@@ -1574,6 +1574,96 @@ This repository serves as the supporting resource for our research survey on que
   </tbody>
 </table>
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Code Repository / GitHub Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2020/04</td>
+      <td>Semantic Graphs for Generating Deep Questions</td>
+      <td>(Pan et&nbsp;al., 2020)</td>
+      <td><a href="https://github.com/WING-NUS/SG-Deep-Question-Generation">github.com/WING-NUS/SG-Deep-Question-Generation</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2020/12</td>
+      <td>Exploring Question-Specific Rewards for Generating Deep Questions</td>
+      <td>(Xie et&nbsp;al., 2020)</td>
+      <td><a href="https://github.com/YuxiXie/RL-for-Question-Generation">github.com/YuxiXie/RL-for-Question-Generation</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2020/12</td>
+      <td>Automatic Distractor Generation for Multiple-Choice Questions in Standard Tests (EDGE)</td>
+      <td>(Qiu et&nbsp;al., 2020)</td>
+      <td><a href="https://github.com/zpqiu/EDGE">github.com/zpqiu/EDGE</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2022/12</td>
+      <td>CDGP: Automatic Cloze Distractor Generation based on Pre-trained Language Model</td>
+      <td>(Chiang et&nbsp;al., 2022)</td>
+      <td><a href="https://github.com/AndyChiangSH/CDGP">github.com/AndyChiangSH/CDGP</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2023/07</td>
+      <td>Distractor Generation for MCQs with Predictive Prompting &amp; LLMs</td>
+      <td>(Kiros et&nbsp;al., 2023)</td>
+      <td><a href="https://github.com/semerekiros/distractGPT">github.com/semerekiros/distractGPT</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024/03</td>
+      <td>Improving Socratic Question Generation using Data Augmentation &amp; Preference Optimization</td>
+      <td>(Ashok&nbsp;Kumar &amp; Lan, 2024)</td>
+      <td><a href="https://github.com/umass-ml4ed/socratic-quest-gen">github.com/umass-ml4ed/socratic-quest-gen</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024/03</td>
+      <td>Explainable Multi-hop Question Generation: End-to-End without Intermediate Labeling</td>
+      <td>(Hwang et&nbsp;al., 2024)</td>
+      <td><a href="https://github.com/SeonjeongHwang/e2eQR">github.com/SeonjeongHwang/e2eQR</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024/04</td>
+      <td>Exploring Automated Distractor Generation for Math MCQs via LLMs</td>
+      <td>(Feng et&nbsp;al., 2024)</td>
+      <td><a href="https://github.com/umass-ml4ed/prompt_distractor_generation_NAACL">github.com/umass-ml4ed/prompt_distractor_generation_NAACL</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2024/08</td>
+      <td>Automated Educational Question Generation at Different Bloom’s Skill Levels</td>
+      <td>(Scaria et&nbsp;al., 2024)</td>
+      <td><a href="https://github.com/nicyscaria/AEQG_Blooms_Evaluation_LLMs">github.com/nicyscaria/AEQG_Blooms_Evaluation_LLMs</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2024/09</td>
+      <td>DisGeM: Distractor Generation for MCQs with Span Masking</td>
+      <td>(Ekmekci et&nbsp;al., 2024)</td>
+      <td><a href="https://github.com/obss/disgem">github.com/obss/disgem</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2024/10</td>
+      <td>Critical Questions Generation: Motivation and Challenges</td>
+      <td>(Figueras et&nbsp;al., 2024)</td>
+      <td><a href="https://github.com/hitz-zentroa/critical_questions_generation">github.com/hitz-zentroa/critical_questions_generation</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
