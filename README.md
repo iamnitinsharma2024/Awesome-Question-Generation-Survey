@@ -7,7 +7,6 @@ This repository serves as the supporting resource for our research survey on que
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Question Generation Taxonomy</title>
 
 </head>
 <body>
