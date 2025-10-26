@@ -328,6 +328,112 @@ This repository serves as the supporting resource for our research survey on que
 
   <h2 id="sec-5-3">5.3 Multimodality–Other</h2>
 
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link to PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2020/11</td>
+      <td>PathQG: Neural Question Generation from Facts</td>
+      <td>Wang et al., 2020</td>
+      <td>EMNLP 2020</td>
+      <td><a href="https://aclanthology.org/2020.emnlp-main.729.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2020/12</td>
+      <td>Knowledge-enriched, Type-constrained and Grammar-guided Question Generation over Knowledge Bases</td>
+      <td>Bi et al., 2020</td>
+      <td>COLING 2020</td>
+      <td><a href="https://aclanthology.org/2020.coling-main.250.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2023/10</td>
+      <td>Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation</td>
+      <td>Liang et al., 2023</td>
+      <td>EMNLP 2023</td>
+      <td><a href="https://aclanthology.org/2023.emnlp-main.263.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/04</td>
+      <td>SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation</td>
+      <td>Guo et al., 2024</td>
+      <td>Findings NAACL 2024</td>
+      <td><a href="https://aclanthology.org/2024.findings-naacl.59.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/04</td>
+      <td>QANA: LLM-based Question Generation and Network Analysis for Zero-shot Key Point Analysis and Beyond</td>
+      <td>Fukuma et al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2404.18371">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024/05</td>
+      <td>Diversifying Question Generation over Knowledge Base via External Natural Questions</td>
+      <td>Guo et al., 2024</td>
+      <td>LREC-COLING 2024</td>
+      <td><a href="https://aclanthology.org/2024.lrec-main.454.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024/07</td>
+      <td>Automated Question Generation on Tabular Data for Conversational Data Exploration</td>
+      <td>Chaudhuri et al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2407.12859">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024/11</td>
+      <td>ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos</td>
+      <td>Phukan et al., 2024</td>
+      <td>EMNLP 2024</td>
+      <td><a href="https://aclanthology.org/2024.emnlp-main.798.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2025/03</td>
+      <td>Queryfy: from knowledge graphs to questions using open Large Language Models — Enabling finetuning by question generation on given knowledge</td>
+      <td>Brei et al., 2025</td>
+      <td>IT-Information Technology (Journal)</td>
+      <td><a href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2024-0079/pdf?licenseType=open-access">PDF</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2025/03</td>
+      <td>ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering</td>
+      <td>Guan et al., 2025</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2503.16867">PDF</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2025/04</td>
+      <td>Context Selection and Rewriting for Video-based Educational Question Generation</td>
+      <td>Yu et al., 2025</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2504.19406">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 <hr class="sep" />
 
 <h1 id="sec-6">6. Datasets</h1>
