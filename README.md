@@ -1496,6 +1496,174 @@ This repository serves as the supporting resource for our research survey on que
 <hr class="sep" />
 
 <h1 id="sec-6">6. Datasets</h1>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation in Short form</th>
+      <th>Venue in Short Form</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1992/02</td>
+      <td>The Design for the Wall Street Journal-based CSR Corpus</td>
+      <td>(Paul &amp; Baker, 1992)</td>
+      <td>HLT 1992</td>
+      <td><a href="https://aclanthology.org/H92-1073.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2015/06</td>
+      <td>Large-scale Simple Question Answering with Memory Networks</td>
+      <td>(Bordes et&nbsp;al., 2015)</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/1506.02075">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2015/09</td>
+      <td>WikiQA: A Challenge Dataset for Open-Domain Question Answering</td>
+      <td>(Yang et&nbsp;al., 2015)</td>
+      <td>EMNLP 2015</td>
+      <td><a href="https://aclanthology.org/D15-1237.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2016/03</td>
+      <td>Generating Natural Questions About an Image</td>
+      <td>(Mostafazadeh et&nbsp;al., 2016)</td>
+      <td>ACL 2016</td>
+      <td><a href="https://aclanthology.org/P16-1170.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2016/06</td>
+      <td>SQuAD: 100,000+ Questions for Machine Comprehension of Text</td>
+      <td>(Rajpurkar et&nbsp;al., 2016)</td>
+      <td>EMNLP 2016</td>
+      <td><a href="https://nlp.stanford.edu/pubs/rajpurkar2016squad.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2016/07</td>
+      <td>Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid QA</td>
+      <td>(Li et&nbsp;al., 2016)</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/1607.06275">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2016/11</td>
+      <td>MS MARCO: A Human Generated MAchine Reading COmprehension Dataset</td>
+      <td>(Nguyen et&nbsp;al., 2016)</td>
+      <td>NeurIPS WS 2016 (CoCoNIPS)</td>
+      <td><a href="https://ceur-ws.org/Vol-1773/CoCoNIPS_2016_paper9.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2016/11</td>
+      <td>NewsQA: A Machine Comprehension Dataset</td>
+      <td>(Trischler et&nbsp;al., 2017)</td>
+      <td>ACL W17</td>
+      <td><a href="https://aclanthology.org/W17-2623.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2017/04</td>
+      <td>RACE: Large-scale ReAding Comprehension Dataset From Examinations</td>
+      <td>(Lai et&nbsp;al., 2017)</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/1704.04683">PDF</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2018/06</td>
+      <td>Know What You Don’t Know: Unanswerable Questions for SQuAD</td>
+      <td>(Rajpurkar et&nbsp;al., 2018)</td>
+      <td>ACL 2018</td>
+      <td><a href="https://nlp.stanford.edu/pubs/rajpurkar2018squad.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2018/06</td>
+      <td>LearningQ: A Large-scale Dataset for Educational Question Generation</td>
+      <td>(Chen et&nbsp;al., 2018)</td>
+      <td>ICWSM 2018</td>
+      <td><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/14987/14837">PDF</a></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>2018/09</td>
+      <td>HotpotQA: A Dataset for Diverse, Explainable Multi-hop QA</td>
+      <td>(Yang et&nbsp;al., 2018)</td>
+      <td>EMNLP 2018</td>
+      <td><a href="https://nlp.stanford.edu/pubs/yang2018hotpotqa.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>2019/03</td>
+      <td>DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs</td>
+      <td>(Dua et&nbsp;al., 2019)</td>
+      <td>NAACL 2019</td>
+      <td><a href="https://arxiv.org/pdf/1903.00161">PDF</a></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>2019/06</td>
+      <td>Cross-Lingual Training for Automatic Question Generation</td>
+      <td>(Kumar et&nbsp;al., 2019)</td>
+      <td>ACL 2019</td>
+      <td><a href="https://www.cse.iitb.ac.in/~ganesh/papers/acl2019a.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>2019/10</td>
+      <td>LC-QuAD&nbsp;2.0: A Large Dataset for Complex Question Answering over Wikidata and DBpedia</td>
+      <td>(Dubey et&nbsp;al., 2019)</td>
+      <td>ISWC 2019</td>
+      <td><a href="https://jens-lehmann.org/files/2019/iswc_lcquad2.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>2022/09</td>
+      <td>Learn to Explain: Multimodal Reasoning via Thought Chains for Science QA</td>
+      <td>(Lu et&nbsp;al., 2022)</td>
+      <td>NeurIPS 2022</td>
+      <td><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>2023/10</td>
+      <td>MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts</td>
+      <td>(Lu et&nbsp;al., 2023)</td>
+      <td>ICLR 2024</td>
+      <td><a href="https://arxiv.org/pdf/2310.02255">PDF</a></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>2024/04</td>
+      <td>TableVQA-Bench: A Visual Question Answering Benchmark on Multiple Table Domains</td>
+      <td>(Kim et&nbsp;al., 2024)</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2404.19205">PDF</a></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>2025/01</td>
+      <td>Automated Generation of Challenging Multiple-Choice Questions for VLM Evaluation (AutoConverter &amp; VMCBench)</td>
+      <td>(Zhang et&nbsp;al., 2025)</td>
+      <td>CVPR 2025</td>
+      <td><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_CVPR_2025_paper.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <hr class="sep" />
 
