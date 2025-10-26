@@ -616,7 +616,53 @@ This repository serves as the supporting resource for our research survey on que
 
   
   <h2 id="sec-3-2">3.2 Bloom’s Taxonomy</h2>
-  
+  <table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2024/01</td>
+      <td>How Teachers Can Use Large Language Models and Bloom’s Taxonomy to Create Educational Quizzes</td>
+      <td>Elkins et&nbsp;al., 2024</td>
+      <td>EAAI-24 (AAAI)</td>
+      <td><a href="https://arxiv.org/pdf/2401.05914">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/07</td>
+      <td>Automated Educational Question Generation at Different Bloom’s Skill Levels using Large Language Models: Strategies and Evaluation</td>
+      <td>Scaria et&nbsp;al., 2024</td>
+      <td>AIED&nbsp;2024 (LNCS)</td>
+      <td><a href="https://arxiv.org/pdf/2408.04394">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/11</td>
+      <td>Cognicraft: Smart Exam Question Generation with AI and Bloom’s Taxonomy</td>
+      <td>Sagadraca et&nbsp;al., 2024</td>
+      <td>ICCE&nbsp;2024</td>
+      <td><a href="https://library.apsce.net/index.php/ICCE/article/download/4918/4847/6155">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2025/06</td>
+      <td>From Objectives to Questions: A Planning-based Framework for Educational Mathematical Question Generation</td>
+      <td>Cheng et&nbsp;al., 2025</td>
+      <td>ACL&nbsp;2025</td>
+      <td><a href="https://aclanthology.org/2025.acl-long.628.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
   
   
   
