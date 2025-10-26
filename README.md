@@ -320,6 +320,111 @@ This repository serves as the supporting resource for our research survey on que
 
 <h1 id="sec-2">2. Context Base Question</h1>
   <h2 id="sec-2-1">2.1 Conversational Question</h2>
+ <table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2020/10</td>
+      <td>Job Interviewer Android with Elaborate Follow-up Question Generation</td>
+      <td>Inoue et&nbsp;al., 2020</td>
+      <td>ICMI 2020</td>
+      <td><a href="https://sap.ist.i.kyoto-u.ac.jp/EN/bib/intl/INO-ICMI20.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2023/07</td>
+      <td>Synthesize, Prompt and Transfer: Zero-shot Conversational Question Generation with Pre-trained Language Model</td>
+      <td>Zeng et&nbsp;al., 2023</td>
+      <td>ACL 2023</td>
+      <td><a href="https://aclanthology.org/2023.acl-long.500.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/04</td>
+      <td>Question Generation in Knowledge-Driven Dialog: Explainability and Evaluation</td>
+      <td>Faille et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2404.07836">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/08</td>
+      <td>Consistency Training by Synthetic Question Generation for Conversational Question Answering</td>
+      <td>Hemati et&nbsp;al., 2024</td>
+      <td>ACL 2024 (Short)</td>
+      <td><a href="https://aclanthology.org/2024.acl-short.57.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/09</td>
+      <td>Corpus-informed Retrieval Augmented Generation of Clarifying Questions</td>
+      <td>Krasakis et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2409.18575">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024/09</td>
+      <td>Co-Trained Retriever-Generator Framework for Question Generation in Earnings Calls</td>
+      <td>Juan et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2409.18677">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024/10</td>
+      <td>AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs</td>
+      <td>Siro et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/siro-2024-agent-cq-arxiv.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024/11</td>
+      <td>Context-Aware and User Intent-Aware Follow-Up Question Generation (CA-UIA-QG): Mimicking User Behavior in Multi-Turn Setting</td>
+      <td>Dong et&nbsp;al., 2024</td>
+      <td>Amazon Science (TR)</td>
+      <td><a href="https://assets.amazon.science/ae/95/fc6b781a40b3866041e919468a55/context-aware-and-user-intent-aware-follow-up-question-generation-ca-uia-qg-mimicking-user-behavior-in-multi-turn-setting.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2025/01</td>
+      <td>Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions</td>
+      <td>Xiong et&nbsp;al., 2025</td>
+      <td>PSB 2025</td>
+      <td><a href="https://psb.stanford.edu/psb-online/proceedings/psb25/xiong.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2025/01</td>
+      <td>From Superficial to Deep: Integrating External Knowledge for Follow-up Question Generation Using Knowledge Graph and LLM</td>
+      <td>Liu et&nbsp;al., 2025</td>
+      <td>COLING 2025</td>
+      <td><a href="https://aclanthology.org/2025.coling-main.55.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2025/07</td>
+      <td>Follow-up Question Generation For Enhanced Patient-Provider Conversations</td>
+      <td>Gatto et&nbsp;al., 2025</td>
+      <td>ACL 2025</td>
+      <td><a href="https://aclanthology.org/2025.acl-long.1226.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+  
+  
   <h2 id="sec-2-2">2.2 Context Length Based</h2>
 
 <hr class="sep" />
