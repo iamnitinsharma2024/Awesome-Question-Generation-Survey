@@ -939,7 +939,77 @@ This repository serves as the supporting resource for our research survey on que
 
   
   <h2 id="sec-4-2">4.2 Difficulty Control</h2>
-  
+  <table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link to PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2024/07</td>
+      <td>AI-Assisted Generation of Difficult Math Questions</td>
+      <td>Shah et&nbsp;al.,&nbsp;2024</td>
+      <td>arXiv (preprint)</td>
+      <td><a href="https://arxiv.org/pdf/2407.21009" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/11</td>
+      <td>Enhancing Diversity in Difficulty-Controllable Question Generation for Reading Comprehension via Extended T5</td>
+      <td>Goto et&nbsp;al.,&nbsp;2024</td>
+      <td>ICCE&nbsp;2024</td>
+      <td><a href="https://library.apsce.net/index.php/ICCE/article/download/4813/4748" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/11</td>
+      <td>Difficulty-Controllable Reading Comprehension Question Generation Considering the Difficulty of Reading Passages</td>
+      <td>Tomikawa &amp; Uto,&nbsp;2024</td>
+      <td>ICCE&nbsp;2024</td>
+      <td><a href="https://library.apsce.net/index.php/ICCE/article/download/4931/4861/6183" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/12</td>
+      <td>Give me Some Hard Questions: Synthetic Data Generation for Clinical QA</td>
+      <td>Bai et&nbsp;al.,&nbsp;2024</td>
+      <td>ML4H&nbsp;2024 Findings (arXiv)</td>
+      <td><a href="https://arxiv.org/pdf/2412.04573" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2025/05</td>
+      <td>KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation</td>
+      <td>Chen &amp; Shiu,&nbsp;2025</td>
+      <td>arXiv (preprint)</td>
+      <td><a href="https://arxiv.org/pdf/2505.07618" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2025/05</td>
+      <td>KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation</td>
+      <td>Tatarinov et&nbsp;al.,&nbsp;2025</td>
+      <td>arXiv (preprint)</td>
+      <td><a href="https://arxiv.org/pdf/2505.12495" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2025/07</td>
+      <td>Advancing Question Generation with Joint Narrative and Difficulty Control</td>
+      <td>Leite &amp; Lopes&nbsp;Cardoso,&nbsp;2025</td>
+      <td>BEA&nbsp;2025 (ACL Workshop)</td>
+      <td><a href="https://aclanthology.org/2025.bea-1.46.pdf" target="_blank">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
   
   
   <h2 id="sec-4-3">4.3 Scalable &amp; Efficient</h2>
