@@ -257,6 +257,64 @@ This repository serves as the supporting resource for our research survey on que
 
   
   <h2 id="sec-1-3">1.3 Miscellaneous Answer Format</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2022/05</td>
+      <td>Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model</td>
+      <td>Matsumori et&nbsp;al., 2022</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2205.07202">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/05</td>
+      <td>Opinerium: Subjective Question Generation Using Large Language Models</td>
+      <td>Babakhani et&nbsp;al., 2024</td>
+      <td>IEEE Access</td>
+      <td><a href="https://doi.org/10.1109/ACCESS.2024.3398553">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/06</td>
+      <td>QOG: Question and Options Generation based on Language Model</td>
+      <td>Zhou, 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2406.12381">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/07</td>
+      <td>Automatic Question Generation and Constructed Response Scoring in Intelligent Texts.</td>
+      <td>Morris et&nbsp;al., 2024</td>
+      <td>CEUR-WS (L3MNGET@EDM)</td>
+      <td><a href="https://ceur-ws.org/Vol-3840/L3MNGET24_paper2.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/10</td>
+      <td>MIRROR: A Novel Approach for the Automated Evaluation of Open-Ended Question Generation.</td>
+      <td>Deroy et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2410.12893">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 
 <hr class="sep" />
 
