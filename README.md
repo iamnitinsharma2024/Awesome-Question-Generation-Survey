@@ -1512,5 +1512,77 @@ This repository serves as the supporting resource for our research survey on que
 </body>
 </html>
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Code Repository / GitHub Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2022/01</td>
+      <td>Leaf: Multiple-Choice Question Generation</td>
+      <td>Vachev et al., 2022</td>
+      <td><a href="https://github.com/KristiyanVachev/Leaf-Question-Generation" target="_blank">github.com/KristiyanVachev/Leaf-Question-Generation</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2022/07</td>
+      <td>Reading Comprehension Quiz Generation using Generative Pre-trained Transformers</td>
+      <td>Dijkstra et al., 2022</td>
+      <td><a href="https://github.com/RamonDijkstra/EduQuiz" target="_blank">github.com/RamonDijkstra/EduQuiz</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/10</td>
+      <td>MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback</td>
+      <td>Yao et al., 2024</td>
+      <td><a href="https://github.com/bio-nlp/MedQG" target="_blank">github.com/bio-nlp/MedQG</a></td>
+    </tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation in Short form</th>
+      <th>Code Repository / GitHub Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2023/07</td>
+      <td>Synthesize, Prompt and Transfer: Zero-shot Conversational Question Generation with Pre-trained Language Model</td>
+      <td>[Zeng&nbsp;et&nbsp;al.,&nbsp;2023]</td>
+      <td><a href="https://github.com/hongweizeng/ZeroCQG">https://github.com/hongweizeng/ZeroCQG</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024/08</td>
+      <td>Consistency Training by Synthetic Question Generation for Conversational Question Answering</td>
+      <td>[Hematian&nbsp;&amp;&nbsp;Beigy,&nbsp;2024]</td>
+      <td><a href="https://github.com/HamedHematian/SynCQG">https://github.com/HamedHematian/SynCQG</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
 
 
