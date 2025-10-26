@@ -426,6 +426,100 @@ This repository serves as the supporting resource for our research survey on que
   
   
   <h2 id="sec-2-2">2.2 Context Length Based</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2020/02</td>
+      <td>Capturing Greater Context for Question Generation</td>
+      <td>Luu et&nbsp;al., 2020</td>
+      <td>AAAI&nbsp;2020</td>
+      <td><a href="https://cdn.aaai.org/ojs/6440/6440-13-9665-1-10-20200517.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2020/05</td>
+      <td>Transformer-based End-to-End Question Generation</td>
+      <td>Lopez et&nbsp;al., 2020</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2005.01107">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2020/07</td>
+      <td>How to Ask Good Questions? Try to Leverage Paraphrases</td>
+      <td>Jia et&nbsp;al., 2020</td>
+      <td>ACL&nbsp;2020</td>
+      <td><a href="https://aclanthology.org/2020.acl-main.545.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2023/07</td>
+      <td>Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation</td>
+      <td>Yuan et&nbsp;al., 2023</td>
+      <td>Findings&nbsp;ACL&nbsp;2023</td>
+      <td><a href="https://aclanthology.org/2023.findings-acl.820.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/01</td>
+      <td>A Unified Framework for Contextual and Factoid Question Generation</td>
+      <td>Dong et&nbsp;al., 2024</td>
+      <td>TKDE</td>
+      <td><a href="https://openreview.net/forum?id=aQywPbwfTc">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024/02</td>
+      <td>NewsQs: Multi-Source Question Generation for the Inquiring Mind</td>
+      <td>Hwang et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2402.18479">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024/05</td>
+      <td>SGCM: Salience-Guided Context Modeling for Question Generation</td>
+      <td>Ding et&nbsp;al., 2024</td>
+      <td>LREC-COLING&nbsp;2024</td>
+      <td><a href="https://aclanthology.org/2024.lrec-main.1285.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024/05</td>
+      <td>Long-Span Question-Answering: Automatic Question Generation and QA-System Ranking via Side-by-Side Evaluation</td>
+      <td>Bohnet et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2406.00179">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2024/10</td>
+      <td>Expanding Chatbot Knowledge in Customer Service: Context-Aware Similar Question Generation Using Large Language Models</td>
+      <td>Hong et&nbsp;al., 2024</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2410.12444">PDF</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2025/01</td>
+      <td>Leveraging In-Context Learning and Retrieval-Augmented Generation for Automatic Question Generation in Educational Domains</td>
+      <td>Maity et&nbsp;al., 2025</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/abs/2501.17397">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <hr class="sep" />
 
