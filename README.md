@@ -102,6 +102,118 @@ This repository serves as the supporting resource for our research survey on que
 <h1 id="sec-5">5. Multilingual &amp; Multimodality Based Question</h1>
   <h2 id="sec-5-1">5.1 Multi-Lingual</h2>
   <h2 id="sec-5-2">5.2 Multimodality–Image</h2>
+
+  <table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2017/09</td>
+      <td>Visual Question Generation as Dual Task of Visual Question Answering</td>
+      <td>(Li et&nbsp;al., 2018)</td>
+      <td>CVPR</td>
+      <td><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2023/09</td>
+      <td>SSN MLRG at MEDVQA-GI 2023: Visual Question Generation and Answering using Transformer based Pre-trained Models</td>
+      <td>(Mohamed et&nbsp;al., 2023)</td>
+      <td>CLEF (CEUR-WS)</td>
+      <td><a href="https://ceur-ws.org/Vol-3497/paper-135.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024/01</td>
+      <td>Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation</td>
+      <td>(Uehara et&nbsp;al., 2024)</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2401.10005" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024/02</td>
+      <td>ConVQG: Contrastive Visual Question Generation with Multimodal Guidance</td>
+      <td>(Mi et&nbsp;al., 2024)</td>
+      <td>AAAI</td>
+      <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28216/28427" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024/05</td>
+      <td>Look before You Leap: Dual Logical Verification for Knowledge-based Visual Question Generation</td>
+      <td>(Liu et&nbsp;al., 2024)</td>
+      <td>LREC-COLING</td>
+      <td><a href="https://aclanthology.org/2024.lrec-main.943.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024/05</td>
+      <td>Knowledge-Guided Cross-Topic Visual Question Generation</td>
+      <td>(H. Liu et&nbsp;al., 2024)</td>
+      <td>LREC-COLING</td>
+      <td><a href="https://aclanthology.org/2024.lrec-main.861.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024/07</td>
+      <td>Synthetic Multimodal Question Generation</td>
+      <td>(Wu et&nbsp;al., 2024)</td>
+      <td>Findings of EMNLP</td>
+      <td><a href="https://aclanthology.org/2024.findings-emnlp.759.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2025/01</td>
+      <td>Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation</td>
+      <td>(Zhang et&nbsp;al., 2025)</td>
+      <td>CVPR</td>
+      <td><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_CVPR_2025_paper.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2025/03</td>
+      <td>AutoDrive-QA: Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models</td>
+      <td>(Khalili &amp; Smyth, 2025)</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/2503.15778" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2025/04</td>
+      <td>AI-Assisted Multiple-Choice Questions Generation with Multimodal Large Language Models in Engineering Higher Education</td>
+      <td>(Shu et&nbsp;al., 2025)</td>
+      <td>EDUCON</td>
+      <td><a href="https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/107960/Shu%20Ai-Assisted%20Multiple-Choice%202025%20Accepted.pdf?sequence=2" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2025/06</td>
+      <td>Focusing on Students, not Machines: Grounded Question Generation and Automated Answer Grading</td>
+      <td>(Meyer &amp; Breuer, 2025)</td>
+      <td>arXiv (Thesis)</td>
+      <td><a href="https://arxiv.org/pdf/2506.12066" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>2025/02</td>
+      <td>Explicitly Guided Difficulty-Controllable Visual Question Generation</td>
+      <td>(Xie et&nbsp;al., 2025)</td>
+      <td>AAAI</td>
+      <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34745/36900" target="_blank">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
   <h2 id="sec-5-3">5.3 Multimodality–Other</h2>
 
 <hr class="sep" />
