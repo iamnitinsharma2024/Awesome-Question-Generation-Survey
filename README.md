@@ -1,7 +1,6 @@
 # Awesome-Question-Generation-Survey
 This repository serves as the supporting resource for our research survey on question generation.
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,6 +61,8 @@ This repository serves as the supporting resource for our research survey on que
       </ol>
     </li>
     <li><a href="#sec-8"> Code Repository/ GitHub Link</a></li>
+    <li><a href="#sec-8"> QG Survey Papers</a></li>  
+   
   </ol>
 </nav>
 
@@ -2082,7 +2083,103 @@ This repository serves as the supporting resource for our research survey on que
 
 
 
+<hr class="sep" />
 
+<h1 id="sec-8">9. QG Survey Papers </h1>
+
+
+
+</body>
+</html>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SN</th>
+      <th>Time (YYYY/MM)</th>
+      <th>Title</th>
+      <th>Inline Citation (short)</th>
+      <th>Venue (short)</th>
+      <th>Link of PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2019/06</td>
+      <td>Recent Advances in Neural Question Generation</td>
+      <td>Pan et&nbsp;al.,&nbsp;2019</td>
+      <td>arXiv</td>
+      <td><a href="https://arxiv.org/pdf/1905.08949.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2019/09</td>
+      <td>Automatic Multiple Choice Question Generation from Text: A Survey</td>
+      <td>Musale et&nbsp;al.,&nbsp;2019</td>
+      <td>IJRTI</td>
+      <td><a href="https://www.ijrti.org/papers/IJRTI1909014.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2019/11</td>
+      <td>A Systematic Review of Automatic Question Generation for Educational Purposes</td>
+      <td>Kurdi et&nbsp;al.,&nbsp;2020</td>
+      <td>IJAIEd</td>
+      <td><a href="https://link.springer.com/content/pdf/10.1007/s40593-019-00186-y.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2021/03</td>
+      <td>Automatic Question Generation and Answer Assessment: A Survey</td>
+      <td>Das et&nbsp;al.,&nbsp;2021</td>
+      <td>TELRP</td>
+      <td><a href="https://telrp.springeropen.com/counter/pdf/10.1186/s41039-021-00151-1.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2021/08</td>
+      <td>A Review on Question Generation from Natural Language Text</td>
+      <td>Zhang et&nbsp;al.,&nbsp;2021</td>
+      <td>ACM&nbsp;CSUR</td>
+      <td><a href="https://jiafengguo.github.io/2021/2021-A%20Review%20on%20Question%20Generation%20from%20Natural%20Language%20Text.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2023/01</td>
+      <td>Automatic Question Generation: A Review of Methodologies, Datasets, Evaluation Metrics, and Applications</td>
+      <td>Mulla &amp;&nbsp;Gharpure,&nbsp;2023</td>
+      <td>Prog.&nbsp;AI</td>
+      <td><a href="https://link.springer.com/content/pdf/10.1007/s13748-023-00295-9.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2023/10</td>
+      <td>Review on Neural Question Generation for Education Purposes</td>
+      <td>Al&nbsp;Faraby et&nbsp;al.,&nbsp;2023</td>
+      <td>IJAIEd</td>
+      <td><a href="https://link.springer.com/content/pdf/10.1007/s40593-023-00374-x.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024/02</td>
+      <td>A Survey on Neural Question Generation: Methods, Applications, and Prospects</td>
+      <td>Guo et&nbsp;al.,&nbsp;2024</td>
+      <td>arXiv / IJCAI-24</td>
+      <td><a href="https://arxiv.org/pdf/2402.18267.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2024/06</td>
+      <td>Exploring Quality Criteria and Evaluation Methods in Automated Question Generation: A Comprehensive Survey</td>
+      <td>Gorgun &amp;&nbsp;Bulut,&nbsp;2024</td>
+      <td>Edu.&nbsp;&amp;&nbsp;Info.&nbsp;Tech.</td>
+      <td><a href="https://link.springer.com/content/pdf/10.1007/s10639-024-12771-3.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a class="top" href="#top">Back to top ↑</a></p>
 
 
 
