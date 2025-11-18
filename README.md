@@ -2181,9 +2181,12 @@ This repository serves as the supporting resource for our research survey on que
 
 <p><a class="top" href="#top">Back to top ↑</a></p>
 
-## Additional Articles
+# My Question Generation Project
 
-- [Question Types Article](./a1.md)
+### Articles
+- 👉 [Full Article on Question Types](article.md)
+- 👉 [Detailed Table (HTML Version)](table.html)
+
 
 
 
