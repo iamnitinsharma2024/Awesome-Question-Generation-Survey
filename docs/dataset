@@ -1,1 +1,17 @@
-###Dataset 
+# Key Datasets Driving Progress in Question Generation Research
+
+## Overview
+This article summarizes the top datasets identified in the uploaded document and explains their importance in Question Generation (QG) research. A clean, simple, and academic writing style has been used to ensure readability for GitHub documentation.
+
+## 1. Classical Reading-Comprehension Datasets
+Span-based datasets such as **SQuAD 1.1** shaped early QG methods due to their high-quality annotations and clear answer spans. **MS MARCO**, with its free-form answers, pushed QG research toward realistic, open-ended natural language. **LearningQ** introduced answer-agnostic questions, helping models generate questions without predetermined answers.
+
+## 2. Conversational and Interaction-Based Datasets
+Dialog-focused datasets—including **CoQA** and **QuAC**—capture multi-turn interactions where each question depends on previous context. These datasets support conversational AI tutors and systems requiring dynamic follow-up questioning. **RACE**, an exam-style dataset, helps develop MCQ-based question generation with more complex reasoning.
+
+## 3. Multi-Hop and Explainable Reasoning Datasets
+Advanced QG systems require reasoning across multiple sentences or documents. **HotpotQA** (2-hop) and **MuSiQue** (2–4 hops) provide multi-hop settings and demand structured reasoning. **QGEval** is a unique evaluation benchmark built to assess QG models using human-annotated dimensions such as fluency, answerability, and correctness.
+
+## 4. Multilingual and Low-Resource Datasets
+The expansion of QG to low-resource languages is seen through **SQuAD_bn**, a Bangla dataset built from SQuAD 2.0 and TyDi-QA. This dataset strengthens multilingual QG capabilities and supports regional language applications.
+
