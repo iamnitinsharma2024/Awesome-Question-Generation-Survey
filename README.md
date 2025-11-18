@@ -2182,7 +2182,9 @@ This repository serves as the supporting resource for our research survey on que
 <p><a class="top" href="#top">Back to top ↑</a></p>
 
 # Articles
-- [Understanding Question Generation](./doc/article.md)
+- [Article](./docs/article.md)
+
+
 
 
 
