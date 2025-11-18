@@ -1,4 +1,4 @@
-# Question Types for Primary Education and Neural Question Generation
+# Question Types for Neural Question Generation
 
 ## 1. Introduction
 
@@ -143,7 +143,7 @@ The final group focuses on learner modelling, emotions, and ethics.
 
 ## 7. Conclusion
 
-The taxonomy presented in the document offers a structured view of question types for primary education and neural question generation. It links concrete classroom examples with research datasets and frameworks, and it spans simple formats, higher-order reasoning, conversational context, advanced generation strategies, and personalization.
+The taxonomy presented in the document offers a structured view of question types for neural question generation. It links concrete classroom examples with research datasets and frameworks, and it spans simple formats, higher-order reasoning, conversational context, advanced generation strategies, and personalization.
 
 For educators, this list can act as a design checklist when creating worksheets, lesson plans, and assessments. For Gen AI and NLP researchers, it provides a practical, education-focused perspective on what kinds of questions a neural QG system should be able to generate, control, and evaluate in real learning environments.
 
